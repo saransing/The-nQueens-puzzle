@@ -21,8 +21,7 @@ To run the solver, follow these steps:
 - The program can be easily modified to solve for different sizes of the chessboard.
 
 ## Customization
-You can change the size of the chessboard by modifying the `n` variable in the `Main.java` file:
-int n = 4; // Change this to any positive integer > 3
+You can change the size of the chessboard by modifying the `n` variable in the `Main.java` file
 
 ## Customization
 Feel free to fork this repository and submit pull requests with any improvements.
